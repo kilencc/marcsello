@@ -1,0 +1,30 @@
+body{
+    color:darkred;
+background-color: lightgray;
+
+}
+h1{
+    text-align: center;
+}
+.left{
+   float: left;
+    width: 60px;
+}
+.right{
+float: right ;
+width: 60px;
+}
+.center{
+ width: 90px;   
+    
+}
+.m{
+    text-align: center;
+
+}
+.k{
+    text-decoration: underline;
+}   
+.l {
+    text-align: center;
+}
