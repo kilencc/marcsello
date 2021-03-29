@@ -1,0 +1,24 @@
+body{
+    background-color: #E0E0E0;
+    color: #660000 ;
+}
+.left{
+float: left;
+}
+.right{
+float: right;
+}
+h1{
+    text-align: center;
+    
+ }
+h2{
+    text-align: center;
+    
+}
+.kozep{
+    text-align: center;
+}
+.alahuzas{
+    text-decoration: underline;
+}
